@@ -1,6 +1,6 @@
-# 📊 Project: Complex API 2
+# 🌦 Project: Weather API
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
 
 ### How to submit your code for review:
 
