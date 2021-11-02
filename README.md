@@ -1,6 +1,6 @@
 # Daily Quote Generator 📰
 
-Choose a category that you want to find motivation in and a random quote will be generated for you!
+Choose a category that you want to find motivation in and a random quote will be generated for you! (text-to-speech application)
 
 **Live Demo:** <a href="https://quote-generator-jenna-nguyen.netlify.app/">Demo</a><i> for display purposes only, still needs an API key for functionality</i>
 
