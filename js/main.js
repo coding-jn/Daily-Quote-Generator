@@ -13,7 +13,7 @@ function getQuote() {
             const quote = `"${data.contents.quotes[0].quote}"`
             const author = `- ${data.contents.quotes[0].author}`
             const display = `${quote} ${author}`
-            const speechUrl = `http://api.voicerss.org/?key=${key}&hl=en-us&v=mary&src=${display}`
+            const speechUrl = `http://api.voicerss.org/?key=1234567890QWERTY&hl=en-us&v=mary&src=${display}`
             document.querySelector('#display').innerHTML = `${quote}<br><br>${author}`
             fetch(speechUrl)
                 .then(response => {
